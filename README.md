@@ -8,7 +8,7 @@ Hey! Right now, I’m studying a higher degree in web application development. I
 ¡Hey! Ahora mismo estoy estudiando un grado superior en desarrollo de aplicaciones web. En unos meses me gradúo y empiezo mis prácticas. Por ahora, estoy centrada tanto en el backend como en el frontend.
 
 - 📘 I’m currently learning 2ºDAW web application development.
-  - JavaScript🩵💛
+  - JavaScript💛
   - PHP🐘💜
 - 😺 Pronouns: she/her
 - 💜😽 Fun fact: I love purple and cats.
@@ -56,6 +56,6 @@ Hey! Right now, I’m studying a higher degree in web application development. I
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
-## 🩵Check out my Social Media🩵
+## Check out my Social Media
 <a href="https://www.linkedin.com/in/enya-garc%C3%ADa-l%C3%B3pez-de-felipe-090990243/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
