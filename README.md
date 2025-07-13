@@ -41,6 +41,10 @@ Ahora mismo estoy en busqueda de trabajo como desarrolladora web. Por ahora, est
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
+<h4> Frameworks🔧</h4>
+<p>Angular</p>
+<p>Spring Boot</p>
+
 <h4> Diseño🎨 </h4>
 <span>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
